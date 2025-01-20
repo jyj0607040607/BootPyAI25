@@ -21,3 +21,6 @@ FastAPI 애플리케이션은 비동기 처리를 기본으로 하며, Uvicorn �
 
 main.py 실행
 Terminal에서 D:\pythonWorkSpace> uvicorn:app --reload --port 8001 ( 위치 확인)
+
+
+![image](https://github.com/user-attachments/assets/201b7fe1-2e60-42d4-9d32-9d2b0bbb64ec)
