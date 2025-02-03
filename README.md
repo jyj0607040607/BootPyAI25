@@ -1,5 +1,7 @@
 # BootPyAI25
 스프링부트와 파이썬 AI 협업모듈
+![image](https://github.com/user-attachments/assets/969e43e0-6eaa-4076-89d9-50dd6465d409)
+
 
 개발환경구축
 
